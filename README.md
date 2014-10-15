@@ -1,3 +1,21 @@
+# BIOMD0000000332: model01
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000332.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000332.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -23,4 +41,5 @@ Numerical experiments to determine the effect of factor V, which is at a much
 reduced level in follicular fluid compared to plasma, and thrombomodulin,
 illustrate the importance for further experimental work to determine values
 for several parameters that have yet to be reported in the literature.
+
 
